@@ -1,7 +1,7 @@
-package com.jeromejaglale.controller;
+package com.moussecp.controller;
 
-import com.jeromejaglale.domain.Car;
-import com.jeromejaglale.service.CarService;
+import com.moussecp.domain.Car;
+import com.moussecp.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

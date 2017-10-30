@@ -1,4 +1,4 @@
-package com.jeromejaglale.config;
+package com.moussecp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"com.jeromejaglale.service", "com.jeromejaglale.controller"})
+@ComponentScan(basePackages = {"com.moussecp.service", "com.moussecp.controller"})
 public class AppConfig {
 	@Bean
     public ViewResolver jspViewResolver() {

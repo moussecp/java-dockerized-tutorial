@@ -1,4 +1,4 @@
-package com.jeromejaglale.service;
+package com.moussecp.service;
 
 import java.math.BigDecimal;
 import java.util.LinkedList;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.jeromejaglale.domain.Car;
+import com.moussecp.domain.Car;
 
 @Service
 public class CarService {

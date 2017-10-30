@@ -1,4 +1,4 @@
-package com.jeromejaglale.config;
+package com.moussecp.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

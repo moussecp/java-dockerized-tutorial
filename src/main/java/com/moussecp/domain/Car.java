@@ -1,4 +1,4 @@
-package com.jeromejaglale.domain;
+package com.moussecp.domain;
 
 import java.math.BigDecimal;
 
